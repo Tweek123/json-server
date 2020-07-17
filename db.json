@@ -20,6 +20,20 @@
       "userFromId": 0,
       "userName": "John",
       "text": "Hello Tom"
-    }
+    },
+    { 
+      "id": 1,
+      "userToId": 2,
+      "userFromId": 0,
+      "userName": "John",
+      "text": "Hello Greek"
+    },
+    { 
+      "id": 2,
+      "userToId": 0,
+      "userFromId": 2,
+      "userName": "Greek",
+      "text": "Hello John"
+    },
   ]
 }
