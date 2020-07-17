@@ -14,12 +14,13 @@
     }
   ],
   "message": [
-    {
+    { 
+      "id": 0,
       "userToId": 1,
       "userFromId": 0,
       "userName": "John",
-      "text": "Hello Tom",
-      "id": 0
+      "text": "Hello Tom"
+
     }
   ]
 }
