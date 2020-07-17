@@ -13,5 +13,13 @@
       "name": "Greek"
     }
   ],
-  "message": []
+  "message": [
+    {
+      "userToId": 1,
+      "userFromId": 0,
+      "userName": "John",
+      "text": "Hello Tom",
+      "id": 1
+    }
+  ]
 }
