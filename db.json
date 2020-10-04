@@ -142,7 +142,7 @@
       "lastName": "Lannister",
       "position": "Lord Commander of the Kingsguard",
       "address": "King's Landing",
-      "avatarUrl": "//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaime_Lannister-Nikolaj_Coster-Waldau.jpg/220px-Jaime_Lannister-Nikolaj_Coster-Waldau.jpg",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Jaime_Lannister-Nikolaj_Coster-Waldau.jpg/220px-Jaime_Lannister-Nikolaj_Coster-Waldau.jpg",
       "comments": [{
         "title": "title1",
         "phone": "+79000000001",
@@ -175,7 +175,7 @@
       "lastName": "Stark",
       "position": "Princess",
       "address": "Winterfell",
-      "avatarUrl": "//upload.wikimedia.org/wikipedia/en/thumb/3/39/Arya_Stark-Maisie_Williams.jpg/220px-Arya_Stark-Maisie_Williams.jpg",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Arya_Stark-Maisie_Williams.jpg/220px-Arya_Stark-Maisie_Williams.jpg",
       "comments": [{
         "title": "title1",
         "phone": "+79000000001",
@@ -208,7 +208,7 @@
       "lastName": "Hodor",
       "position": "Hodor",
       "address": "Hodor",
-      "avatarUrl": "//upload.wikimedia.org/wikipedia/pt/thumb/1/17/HodorGoT.jpg/220px-HodorGoT.jpg",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/pt/thumb/1/17/HodorGoT.jpg/220px-HodorGoT.jpg",
       "comments": [{
         "title": "title1",
         "phone": "+79000000001",
@@ -241,7 +241,7 @@
       "lastName": "Baelish",
       "position": "Master of Coin",
       "address": "King's Landing",
-      "avatarUrl": "//upload.wikimedia.org/wikipedia/en/thumb/d/d5/Aidan_Gillen_playing_Petyr_Baelish.jpg/220px-Aidan_Gillen_playing_Petyr_Baelish.jpg",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Aidan_Gillen_playing_Petyr_Baelish.jpg/220px-Aidan_Gillen_playing_Petyr_Baelish.jpg",
       "comments": [{
         "title": "title1",
         "phone": "+79000000001",
@@ -274,7 +274,7 @@
       "lastName": "Stark",
       "position": "Lord of Winterfell",
       "address": "Winterfell",
-      "avatarUrl": "//upload.wikimedia.org/wikipedia/en/thumb/5/52/Ned_Stark-Sean_Bean.jpg/220px-Ned_Stark-Sean_Bean.jpg",
+      "avatarUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Ned_Stark-Sean_Bean.jpg/220px-Ned_Stark-Sean_Bean.jpg",
       "comments": [{
         "title": "title1",
         "phone": "+79000000001",
